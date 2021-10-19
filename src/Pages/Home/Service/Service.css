@@ -1,0 +1,10 @@
+.service {
+  background-color: #ff7a59;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.service img {
+  width: 100%;
+}

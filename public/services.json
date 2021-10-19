@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa quasi illum quia iusto quos perferendis laboriosam obcaecati soluta repellat?",
+    "img": "https://i.ibb.co/kGCmG8D/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Engine",
+    "price": 4000,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa quasi illum quia iusto quos perferendis laboriosam obcaecati soluta repellat?",
+    "img": "https://i.ibb.co/s5ZZbDh/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Oil fuel",
+    "price": 2500,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa quasi illum quia iusto quos perferendis laboriosam obcaecati soluta repellat?",
+    "img": "https://i.ibb.co/dcNGfvy/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Repair Engine",
+    "price": 1000,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa quasi illum quia iusto quos perferendis laboriosam obcaecati soluta repellat?",
+    "img": "https://i.ibb.co/nmNfLdj/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Car Wash",
+    "price": 1750,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa quasi illum quia iusto quos perferendis laboriosam obcaecati soluta repellat?",
+    "img": "https://i.ibb.co/b22mhXn/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Full Car Wash",
+    "price": 3250,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa quasi illum quia iusto quos perferendis laboriosam obcaecati soluta repellat?",
+    "img": "https://i.ibb.co/2KyzCqd/6.jpg"
+  }
+]
