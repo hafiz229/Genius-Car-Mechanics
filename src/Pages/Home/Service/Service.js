@@ -4,7 +4,7 @@ import "./Service.css";
 
 const Service = ({ service }) => {
   // const {service} = props;
-  const { id, name, price, description, img } = service;
+  const { _id, name, price, description, img } = service;
   return (
     <div className="service">
       <img src={img} alt="" />
@@ -12,7 +12,7 @@ const Service = ({ service }) => {
         <h3 className="text-center">{name}</h3>
         <h5 className="text-center">Price: {price}</h5>
         <p>{description}</p>
-        <Link to={`/booking/${id}`}>
+        <Link to={`/booking/${_id}`}>
           <button className="btn btn-primary mb-2">
             Book {name.toLowerCase()}
           </button>
