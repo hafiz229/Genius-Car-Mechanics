@@ -8,12 +8,14 @@ const AddService = () => {
   const onSubmit = (data) => {
     console.log(data);
 
-    axios.post("http://localhost:5000/services", data).then((res) => {
-      if (res.data.insertedId) {
-        alert("Successfully Added One Item");
-        reset();
-      }
-    });
+    axios
+      .post("https://tranquil-beach-93933.herokuapp.com/services", data)
+      .then((res) => {
+        if (res.data.insertedId) {
+          alert("Successfully Added One Item");
+          reset();
+        }
+      });
   };
   return (
     <div className="add-service">
